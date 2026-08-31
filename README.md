@@ -1,2 +1,2 @@
-# Codealpha_Tasks
+# CodeAlpha-Internship
 CodeAlpha internship tasks in C++.
